@@ -21,7 +21,11 @@ Afterwards enter the following command to build and install dmenu
 
 Running dmenu
 -------------
-See the man page for details.
+My preferred way of running dmenu with a bit of custom flare:
+
+    dmenu_run -p "λ "
+
+There are much more ways of customizing dmenu with the command flags. For more info, see the man page.
 
 Fork
 ----
